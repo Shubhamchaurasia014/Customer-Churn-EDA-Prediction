@@ -1,12 +1,5 @@
 # Customer-Churn-EDA-Prediction
  
-Here’s a polished **GitHub‑ready note (~350 words)** you can use in your repository’s README or project documentation. It’s structured, professional, and highlights your workflow clearly:  
-
----
-
-# Customer Churn Analysis  
-
-## Project Overview  
 This project explores the **Customer Churn dataset** with a focus on applying core data science techniques. The aim was to understand customer behavior, identify potential churn drivers, and practice building predictive models. The workflow integrates **Exploratory Data Analysis (EDA)**, **visualization**, **hypothesis testing**, and **machine learning modeling**.  
 
 ## Steps Taken  
